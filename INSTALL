@@ -1,0 +1,9 @@
+Building JWC
+
+See doc/readme-qt.rst for instructions on building JWC-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of JWC.
+
+See doc/build-*.txt for instructions on building JWCd,
+the intended-for-services, no-graphical-interface, reference
+implementation of JWC.
